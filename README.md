@@ -1,6 +1,6 @@
-# Travel Commute An Azure Static Web App #
+# ✨ Travel Commute An Azure Static Web App ✨ #
 
-This is the project created for Microsoft Future Ready Talent Virtual Internship Program on developing Azure Static Web Apps.
+*This is the project created for Microsoft Future Ready Talent Virtual Internship Program on developing Azure Static Web Apps.*
 
 **Project Link :
 https://green-field-0ce6cc310.1.azurestaticapps.net/**
@@ -28,4 +28,8 @@ Azure Static Web Appps Service
 
 Other Azure Technologies : App Service
 
+# Screenshots  📸 #
+![image](https://user-images.githubusercontent.com/86942586/179403513-be2ed66c-6f5e-469e-8e86-dad44eba596c.png)
+![image](https://user-images.githubusercontent.com/86942586/179403533-4cafbf4b-e2e0-429b-b9f7-38211f6278f6.png)
+![image](https://user-images.githubusercontent.com/86942586/179403555-72c0f001-2b7b-4bb8-9b20-a471bcd98b96.png)
 ![image](https://user-images.githubusercontent.com/86942586/179370346-00c1ed2d-792b-4a59-af85-c26eb607aac2.png)
