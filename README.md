@@ -29,8 +29,10 @@ Azure Static Web Appps Service
 Other Azure Technologies : App Service
 
 # Screenshots  📸 #
-![image](https://user-images.githubusercontent.com/86942586/179403513-be2ed66c-6f5e-469e-8e86-dad44eba596c.png)
-![image](https://user-images.githubusercontent.com/86942586/179403533-4cafbf4b-e2e0-429b-b9f7-38211f6278f6.png)
-![image](https://user-images.githubusercontent.com/86942586/179403555-72c0f001-2b7b-4bb8-9b20-a471bcd98b96.png)
-![image](https://user-images.githubusercontent.com/86942586/179403661-004329bc-5f41-43a3-bf4a-25a752b3f5b0.png)
+![image](https://user-images.githubusercontent.com/86942586/179417306-cfaadf0b-bab9-422a-be8e-b30ed7e5185c.png)
+![image](https://user-images.githubusercontent.com/86942586/179417353-c562bca4-aa6a-4963-8087-236ba6d8418d.png)
+![image](https://user-images.githubusercontent.com/86942586/179417445-03818c2a-3060-446b-966d-eb4bd361dd57.png)
+![image](https://user-images.githubusercontent.com/86942586/179417513-98c2a770-4493-43dd-93d7-545e138a4dd9.png)
+![image](https://user-images.githubusercontent.com/86942586/179417565-8dec8e06-060b-4b93-b9e3-eb6a8ba3439a.png)
+
 ![image](https://user-images.githubusercontent.com/86942586/179370346-00c1ed2d-792b-4a59-af85-c26eb607aac2.png)
