@@ -32,4 +32,5 @@ Other Azure Technologies : App Service
 ![image](https://user-images.githubusercontent.com/86942586/179403513-be2ed66c-6f5e-469e-8e86-dad44eba596c.png)
 ![image](https://user-images.githubusercontent.com/86942586/179403533-4cafbf4b-e2e0-429b-b9f7-38211f6278f6.png)
 ![image](https://user-images.githubusercontent.com/86942586/179403555-72c0f001-2b7b-4bb8-9b20-a471bcd98b96.png)
+![image](https://user-images.githubusercontent.com/86942586/179403661-004329bc-5f41-43a3-bf4a-25a752b3f5b0.png)
 ![image](https://user-images.githubusercontent.com/86942586/179370346-00c1ed2d-792b-4a59-af85-c26eb607aac2.png)
