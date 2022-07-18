@@ -9,7 +9,7 @@
 
 **This is Travel Commute Agency Front End website design**
 
-Web Technologies used: HTML, CSS, JS
+Web Technologies used: HTML, CSS, JS, BOOTSTRAP
 
 IDE: VS-Code
 
