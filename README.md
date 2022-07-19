@@ -30,7 +30,7 @@ Lifestyle
 **Azure Web App Service (Static) : The project uses Azure Website hosting services, which are meant to host websites that don't require running any ASP.NET code. This service is built with Static HTML files, the Azure Web Apps have built-in support for several content management systems and allow you to deploy your own custom CMS or use the one provided at no charge. You can host your website with a globally distributed CDN of edge nodes, which provides higher performance and lower latency for your visitors all over the world. Your website is completely dependent on Microsoft’s cloud infrastructure for its availability and is always up-to-date using continuous deployment technology.**
 
 ## :computer:Primary Azure Technology : ##
-Azure Static Web Apps Service.
+Azure Static Web Apps Service, Azure Resource Manager.
 
 ## Other Azure Technologies : ***App Service*** ##
 
