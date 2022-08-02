@@ -5,11 +5,6 @@
 **:dart:** **Project Link :**
 ***https://green-field-0ce6cc310.1.azurestaticapps.net/***
 
-:dart:**Project Demo :**
-***https://drive.google.com/file/d/1nUz6TxIEEp6NN7pb6GRhCr4bho_vTWdl/view?usp=sharing***
-
-***Demo Video created by our teammate Vaishnavi Nelavetla***
-
 :triangular_flag_on_post:**This is Travel Commute Agency Front End website design**
 
 **:satellite:Web Technologies used: HTML, CSS, JS, BOOTSTRAP**
